@@ -1,0 +1,14 @@
+﻿  Analysis.cpp
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(18,32): warning C4081: 应输入“newline”；找到“;”
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(40,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(62,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(98,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(108,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(117,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(132,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(144,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(159,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Main_Head.h(181,2): warning C4091: “typedef ”: 没有声明变量时忽略“datapkt”的左侧
+D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\TempOne\Analysis.cpp(336,21): warning C4018: “<”: 有符号/无符号不匹配
+  TempOne.vcxproj -> D:\ProgramFiles\C++Files\SoftwareEgineering\TempOne\Debug\TempOne.exe
